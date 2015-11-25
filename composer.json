@@ -1,0 +1,35 @@
+{
+    "name": "mygento/ordercommentuser",
+    "type": "magento-module",
+    "license": "proprietary",
+    "homepage": "https://github.com/mygento/order_comment_user",
+    "description": "Magento extension that provides ability to see who changed order status",
+    "keywords": [
+        "magento"
+    ],
+    "authors": [
+        {
+            "name": "Mygento",
+            "email": "connect@mygento.net",
+            "homepage": "http://www.mygento.net/"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "3.*",
+        "mygento/base": "*"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "2.*",
+        "magento-ecg/coding-standard": "dev-master",
+        "mygento/coding-standard": "*",
+        "sebastian/phpdcd": "*",
+        "sebastian/phpcpd": "*",
+        "jakub-onderka/php-parallel-lint": "0.*",
+        "jakub-onderka/php-console-highlighter": "0.*",
+        "phpmd/phpmd": "@stable"
+    },
+    "extra": {
+        "magento-root-dir": ".",
+        "with-bootstrap-patch": false
+    }
+}

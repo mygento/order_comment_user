@@ -1,2 +1,2 @@
 # order_comment_user
-Add to Magento Order Comment user information
+Adds the username of the person who is making the comment in the admin history to the comment thread on the order
