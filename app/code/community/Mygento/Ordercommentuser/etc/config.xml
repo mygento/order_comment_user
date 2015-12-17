@@ -74,9 +74,9 @@
         </acl>
         <layout>
             <updates>
-                <boxberry>
+                <ordercommentuser>
                     <file>mygento/ordercommentuser.xml</file>
-                </boxberry>
+                </ordercommentuser>
             </updates>
         </layout>
     </adminhtml>
