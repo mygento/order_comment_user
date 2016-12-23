@@ -16,12 +16,12 @@
     ],
     "require": {
         "magento-hackathon/magento-composer-installer": "3.*",
-        "mygento/base": "*"
+        "mygento/base": "1.*"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "2.*",
         "magento-ecg/coding-standard": "dev-master",
-        "mygento/coding-standard": "*",
+        "mygento/coding-standard": "1.*",
         "sebastian/phpdcd": "*",
         "sebastian/phpcpd": "*",
         "jakub-onderka/php-parallel-lint": "0.*",
