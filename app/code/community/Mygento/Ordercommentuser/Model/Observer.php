@@ -4,7 +4,7 @@
  *
  * @category   Mygento
  * @package    Mygento_Ordercommentuser
- * @copyright  Copyright © 2015 NKS LLC. (http://www.mygento.ru)
+ * @copyright  2016 NKS LLC. (http://www.mygento.ru)
  */
 class Mygento_Ordercommentuser_Model_Observer
 {

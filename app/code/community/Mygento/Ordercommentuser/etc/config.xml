@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Mygento_Ordercommentuser>
-            <version>1.0.2</version>
+            <version>1.0.3</version>
         </Mygento_Ordercommentuser>
     </modules>
     <global>
@@ -30,7 +30,7 @@
                     <use>core_setup</use>
                 </connection>
             </ordercommentuser_setup>
-        </resources> 
+        </resources>
         <events>
             <sales_order_status_history_save_before>
                 <observers>

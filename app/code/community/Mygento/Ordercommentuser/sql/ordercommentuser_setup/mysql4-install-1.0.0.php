@@ -1,8 +1,9 @@
 <?php
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ *
+ * @category   Mygento
+ * @package    Mygento_Ordercommentuser
+ * @copyright  2016 NKS LLC. (http://www.mygento.ru)
  */
 $this->startSetup();
 $installer = new Mage_Sales_Model_Mysql4_Setup('core_setup');
