@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="sales_order_status_history" resource="sales" engine="innodb" comment="Sales Flat Order Status History">
+        <column xsi:type="varchar" name="username" nullable="true" comment="Changed user"/>
+    </table>
+</schema>

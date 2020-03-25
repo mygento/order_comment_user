@@ -1,6 +1,0 @@
-app/code/community/Mygento/Ordercommentuser app/code/community/Mygento/Ordercommentuser
-app/etc/modules/Mygento_Ordercommentuser.xml app/etc/modules/Mygento_Ordercommentuser.xml
-app/design/adminhtml/default/default/layout/mygento/ordercommentuser.xml app/design/adminhtml/default/default/layout/mygento/ordercommentuser.xml
-app/design/adminhtml/default/default/template/mygento/sales/order/view/history.phtml app/design/adminhtml/default/default/template/mygento/sales/order/view/history.phtml
-app/locale/en_US/Mygento_Ordercommentuser.csv app/locale/en_US/Mygento_Ordercommentuser.csv
-app/locale/ru_RU/Mygento_Ordercommentuser.csv app/locale/ru_RU/Mygento_Ordercommentuser.csv
